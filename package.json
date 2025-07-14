@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/http-proxy": "^1.17.16",
+    "@types/jasmine": "^5.1.8"
+  }
+}
